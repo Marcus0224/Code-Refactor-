@@ -8,4 +8,4 @@ This changes Made to the Horiseons landing page
 
 # Screen screenshot 
 
-[](Develop/assets/images/Screen Shot .png)
+![](Develop/assets/images/Screen Shot .png)
